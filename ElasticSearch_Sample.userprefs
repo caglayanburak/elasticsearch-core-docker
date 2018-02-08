@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B47D26CB-B5FC-40CA-9170-077F1DB2AE6E}|Default">
+  <MonoDevelop.Ide.ItemProperties.ElasticSearch__Sample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticSearch_Sample Status">
+    <Files>
+      <File FileName="ElasticSearch_Sample Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
