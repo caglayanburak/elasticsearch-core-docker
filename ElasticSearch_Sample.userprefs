@@ -2,6 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.ElasticSearch__Sample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ElasticSearch_Sample Status">
     <Files>
+      <File FileName="Controllers/ProductsController.cs" Line="42" Column="75" />
       <File FileName="ElasticSearch_Sample Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

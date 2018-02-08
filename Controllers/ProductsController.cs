@@ -30,7 +30,7 @@ namespace ElasticSearch_Sample.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public string Get(string name)
         {
             var response = client.Search<Product>(s=>s
                                                   .Index("product-es")
@@ -39,7 +39,7 @@ namespace ElasticSearch_Sample.Controllers
                                                  .Query(q=>q
                                                         .Match(m=>m
                                                                .Field(f=>f.ProductName)
-                                                               .Query("Iphone 7"))));
+                                                               .Query(name))));
             return response.Documents.FirstOrDefault().ProductName;
         }
 
