@@ -2,7 +2,10 @@
   <MonoDevelop.Ide.ItemProperties.ElasticSearch__Sample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ElasticSearch_Sample Status">
     <Files>
-      <File FileName="Controllers/ProductsController.cs" Line="42" Column="75" />
+      <File FileName="Controllers/ProductsController.cs" Line="28" Column="42" />
+      <File FileName="dockerfile" Line="17" Column="30" />
+      <File FileName="docker-compose.yml" Line="17" Column="16" />
+      <File FileName="Controllers Status" />
       <File FileName="ElasticSearch_Sample Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
